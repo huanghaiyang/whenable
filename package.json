@@ -1,5 +1,5 @@
 {
-  "name": "whenable",
+  "name": "whenablity",
   "version": "0.1.0",
   "description": "case when then else",
   "main": "lib/index.js",
